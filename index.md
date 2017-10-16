@@ -4,7 +4,7 @@ title: Portfolio
 author: Koyo Miyamura
 ---
 
-## About this site
+# About this site
 Koyo Miyamura のポートフォリオサイト
 
 プライベートリポジトリのプログラムも紹介したくなり作成
@@ -12,7 +12,7 @@ Koyo Miyamura のポートフォリオサイト
 開発環境：　github-pages + Jekyll 
 
 
-## History
+# History
 1994/10/28 生まれ
 
 熊本県熊本市出身
@@ -21,7 +21,7 @@ Koyo Miyamura のポートフォリオサイト
 
 2019/3　九州大学システム情報科学府情報知能工学専攻　卒業見込み
 
-## My works
+# My works
 
 ### Interview system
 インターン
