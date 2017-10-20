@@ -11,7 +11,6 @@ Koyo Miyamura のポートフォリオサイト
 
 開発環境：　github-pages + Jekyll 
 
-
 # History
 1994/10/28 生まれ
 
@@ -22,6 +21,11 @@ Koyo Miyamura のポートフォリオサイト
 2019/3　九州大学システム情報科学府情報知能工学専攻　卒業見込み
 
 # My works
+
+## My github & gist 
+* [github](https://github.com/koyo-miyamura)
+
+* [gist](https://gist.github.com/koyo-miyamura)
 
 ### Interview system
 インターン
